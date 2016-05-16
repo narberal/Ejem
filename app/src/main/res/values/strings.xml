@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Registrar Evento</string>
-    <string name="action_settings">Settings</string>
-    <string name="telefone">Telefone :</string>
-    <string name="adicionar">Agregar Evento</string>
-</resources>
